@@ -334,7 +334,7 @@ p {
   .client-link:hover,
   .client-link:focus {
     border-color: var(--accent-color);
-   fill: var(--accent-color);
+    fill: var(--accent-color);
   }
 /*buttons*/
 .btn {
